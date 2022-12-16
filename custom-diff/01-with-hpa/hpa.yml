@@ -16,3 +16,4 @@ ignoreDifferences:
     kind: Deployment
     jsonPointers:
     - /spec/replicas
+    
